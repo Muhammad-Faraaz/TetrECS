@@ -1,0 +1,10 @@
+PlayerTest:1450
+M:1200
+Testing:1050
+Player9:1000
+test:950
+Player8:900
+Player7:800
+Player6:700
+Testing:650
+Player5:600
